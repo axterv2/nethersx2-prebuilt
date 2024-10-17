@@ -1,8 +1,4 @@
-<p align="center">
-	<img src="potatognam.png" width="376" height="128" alt="Winlator Logo" />  
-</p>
-
-# VitaSX2
+# NetherSX2 Prebuilt APKs
 These are **unofficial** apks for NetherSX2 to expand on the amazing work already done by Anon and EZOnTheEyes
 
 They aim to do the following:
