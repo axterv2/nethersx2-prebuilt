@@ -1,4 +1,6 @@
-# NetherSX2 Prebuilt APKs
+![super ultra kool pro max logo](https://github.com/user-attachments/assets/2a621d0b-574f-4e4b-a868-4824a2ef760f)
+
+# VitaSX2 - NetherSX2 Prebuilt APKs
 These are **unofficial** apks for NetherSX2 to expand on the amazing work already done by Anon and EZOnTheEyes
 
 They aim to do the following:
@@ -9,6 +11,6 @@ They aim to do the following:
 * Add additional AetherSX2/NetherSX2 spesific fixes to the GameDB
 
 # Downloads
-[Classic]()
-
-[Latest]()
+**When installing, click show more and install wituout verifying. This shows because of the default signature i use. This is a common false positive, nothing to worry about. You could also click install with verifying, it might work.**
+- [Classic]()
+- [Latest]()
