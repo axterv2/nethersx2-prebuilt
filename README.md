@@ -3,7 +3,7 @@
 </p>
 
 # VitaSX2
-These are **unofficial** companion scripts for NetherSX2 to expand on the amazing work already done by Anon and EZOnTheEyes
+These are **unofficial** apks for NetherSX2 to expand on the amazing work already done by Anon and EZOnTheEyes
 
 They aim to do the following:
 * Remove the unnecessary ad services bloat left in the apk
@@ -13,3 +13,5 @@ They aim to do the following:
 * Add additional AetherSX2/NetherSX2 spesific fixes to the GameDB
 
 # Downloads
+[Classic]()
+[Latest]()
